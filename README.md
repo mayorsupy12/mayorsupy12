@@ -1,55 +1,100 @@
-## Hi there 👋 I'm Olasupo Olumayowa
-
+                                                      Hi there 👋 I'm Olasupo Olumayowa
+---
 📊 Data Scientist | 📈 Data Analyst | Specialist in Excel, Power BI, SQL, Data Scraping | Database Administrator | AWS Cloud Practitioner
-Profile Views
+
+   <p align="center">
+  <a href="https://github.com/mayorsupy12">
+    <img src="https://komarev.com/ghpvc/?username=mayorsupy12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
+
+---
 
 👩‍💻 About Me
+
 AI and ML Driven Data Insights | Python, SQL,Power BI, Tableau, Excel Expert
 
 I'm a Data Science specialist with 3+ years of experience in Power BI, Tableau, Excel, SQL, and Python. I build powerful dashboards and models that transform raw data into clear, actionable insights.
 
-📊 Business Intelligence, Data Visualization, and Performance Reporting
-🤖 AI & ML based analytics for prediction, classification, and trend detection
-🌐 Web scraping and data extraction for research and automation
-📈 Passionate about making data-driven decisions accessible for business intelligence
+- 📊 Business Intelligence, Data Visualization, and Performance Reporting
 
+- 🤖 AI & ML based analytics for prediction, classification, and trend detection
+
+- 🌐 Web scraping and data extraction for research and automation
+
+- 📈 Passionate about making data-driven decisions accessible for business intelligence
+
+---
 
 🛠️ Tech Stack
+
 💻 Languages & Tools
-   https://camo.githubusercontent.com/324b4cfa68deb1b9c0008c02e910370ae1e1b7141ce0fe77972b6ea034e7abb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465 https://camo.githubusercontent.com/8d738abc38e5bcff0240052973ec2c49117c1152dbccf16f58df758400052999/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465
-https://camo.githubusercontent.com/e77a9486f992cbb7126cb916a3e705d6701392ef92f165d9653b569442cb5eaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457863656c2d3231373334363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465
-https://camo.githubusercontent.com/b36ccfe81bac365ad2063e526c8325bf841253b7f3e0e23b7026d8d8427bb4a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353562d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d66696c6573266c6f676f436f6c6f723d626c61636b
-   
+  
+  ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8E44AD?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-16A085?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-FF6F00?style=for-the-badge&logo=csv&logoColor=white)
 
 📊 BI & Visualization
- 4f55c1a614d68aac126283f27aff5f3f03cd2163dd751a8d26b5a693410b429b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636
- https://camo.githubusercontent.com/a0a2754f4c7c5b58a26490473ecdb7633d0b429e135cc0195b74160e37294db3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d4539373632373f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175266c6f676f436f6c6f723d7768697465
- https://camo.githubusercontent.com/7c7eb0886bf4b5308bbec7581833b8d4dfd722a1c0db2a6846ffa1bd664ae3e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d3131353537433f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174706c6f746c6962266c6f676f436f6c6f723d7768697465
- https://camo.githubusercontent.com/b06f65bb328cd5165c99a3c573836a891156e8c330f559f989b46111132061bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536561626f726e2d3243324437323f7374796c653d666f722d7468652d6261646765
- https://camo.githubusercontent.com/abe65359f1f5d8836f9c7eda452b1a7f40512e61a0ef577a7a3fab77a5e35ad6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d3346344637353f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465
+ 
+ ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1F77B4?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5B8FB9?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 📦 Data Science & ML
-    https://camo.githubusercontent.com/9520ff4b88594b576eb0f7a11eb9ea6ffaae2dd3f3a24ac3dcfed0ec51eb950e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435383f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465
-    https://camo.githubusercontent.com/c52e2b1e4ee539844f2608320f328b4988c1e581cdf657e333754d5e7d3612c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3031333234333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465
-    https://camo.githubusercontent.com/4c8013e702b80011f48ef77c0c0caa3eae56a14e61af3f14767d7556fccf60c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69742d2d4c6561726e2d4637393331453f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465
-    https://camo.githubusercontent.com/01f021238d5abc3e71e141b696b1fa4c687a820716ff3e7697092159e032bf30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344332433f7374796c653d666f722d7468652d6261646765266c6f676f3d7079746f726368266c6f676f436f6c6f723d7768697465
-    https://camo.githubusercontent.com/cd459e9802d3137d4f052838c2faeab27f6a1e188710246531754ebdcf3eb2cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4544412d3030393638383f7374796c653d666f722d7468652d6261646765266c6f676f3d6578706c6f7261746f7279266c6f676f436f6c6f723d7768697465
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-00B894?style=for-the-badge&logo=databricks&logoColor=white)
 
 🤖 AI & LLMs
-https://camo.githubusercontent.com/2b6ecfd487d4a33f5c6935d20a863e549aac63b4b8153e21e6daa13bdfc7c7cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48756767696e67466163652d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d68756767696e6766616365266c6f676f436f6c6f723d626c61636b
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 🌐 Web Scraping
-   https://camo.githubusercontent.com/ae7ec93747ce6fae79ed7ce380b3818d022ca930f875a52fdde5d1314cefdf9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363726170792d3145314531453f7374796c653d666f722d7468652d6261646765266c6f676f3d736372617079266c6f676f436f6c6f723d677265656e
-   https://camo.githubusercontent.com/e70f5c5380e9e4c7df3faa49ca627e07059d08c31433da4b82ccba4733a6e206/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52657175657374732d3030363941413f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
-   https://camo.githubusercontent.com/989675dfc89ed7c5983713382d7f03444f60a3991501a597d21babfd81137047/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42656175746966756c536f75702d3442303038323f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
-   https://camo.githubusercontent.com/44457efab4142b2df72d7f263ba08288e957b304a2fd2d997694519317c5002e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d73656c656e69756d266c6f676f436f6c6f723d7768697465
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
 
 💼 Experience Highlights
-🚀 Delivered enterprise dashboards for executive reporting
-📦 Automated ETL pipelines for data collection and transformation
-🤖 Created ML models for forecasting and risk analysis
-🌍 Scraped and processed 1M+ data rows from e-commerce & social media
+
+- 🚀 Delivered enterprise dashboards for executive reporting
+
+- 📦 Automated ETL pipelines for data collection and transformation
+
+- 🤖 Created ML models for forecasting and risk analysis
+
+- 🌍 Scraped and processed 1M+ data rows from e-commerce & social media
+
+---
 
 🌍 Let's Connect
 
-(https://github.com/mayorsupy12)   www.linkedin.com/in/olumayowa-olasupo-67b4a632b
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayorsupy12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olumayowa-olasupo-67b4a632b)
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayorsupy12&theme=github_dark)
+<p align="center">
+   
+  <img src="https://streak-stats.demolab.com?user=mayorsupy12&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayorsupy12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+
+
