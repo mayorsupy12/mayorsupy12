@@ -1,4 +1,4 @@
-                                                      Hi there 👋 I'm Olasupo Olumayowa
+                                                           Hi there 👋 I'm  Olumayowa
 ---
 📊 Data Scientist | 📈 Data Analyst | Specialist in Excel, Power BI, SQL, Data Scraping | Database Administrator | AWS Cloud Practitioner
 
