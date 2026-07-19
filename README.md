@@ -32,8 +32,7 @@ I'm a Data Science specialist with 3+ years of experience in Power BI, Tableau, 
   
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 
 📊 BI & Visualization
  
