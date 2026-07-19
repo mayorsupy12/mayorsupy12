@@ -78,7 +78,9 @@ I'm a Data Science specialist with 3+ years of experience in Power BI, Tableau, 
 🌍 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayorsupy12) <p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/olumayowa-olasupo-67b4a632b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
